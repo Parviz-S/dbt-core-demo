@@ -1,10 +1,12 @@
-Welcome to your new dbt project!
-
-### Using the starter project
+Welcome to your my dbt project!
 
 Try running the following commands:
 - dbt run
 - dbt test
+
+Outcomes:
+![testing data retrieval](assets/testing-data-retrieval.png)
+![successfull connection](assets/successfull-connection.png)
 
 
 ### Resources:
